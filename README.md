@@ -63,6 +63,9 @@ Here is a sample view of the interactive dashboard:
 ## Live Demo 🚀
 Try the Streamlit app here: [Churn Predictor Demo](https://churn-prediction-project-m6xz.onrender.com/)
 
+Preview
+![Web page](1.png)
+![Web page](2.png)
 
 👨‍💻 Author
 
